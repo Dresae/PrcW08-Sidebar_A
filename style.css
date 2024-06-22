@@ -27,8 +27,6 @@ body{
     transition: var(--tran-05);
 }
 
-}
-
 ::selection{
     background-color: var(--primary-color);
     color: #fff;
