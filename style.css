@@ -221,6 +221,17 @@ body.dark .sidebar li a:hover .text{
     overflow-y: scroll;
 }
 
+.menu-bar::-webkit-scrollbar{
+    display: none;
+}
+
+.sidebar .menu-bar .mode{
+    border-radius: 6px;
+    background-color: var(--primary-color-light);
+    position: relative;
+    transition: var(--tran-05);
+}
+
 .menu-bar .mode .sun-moon{
     height: 50px;
     width: 60px;
