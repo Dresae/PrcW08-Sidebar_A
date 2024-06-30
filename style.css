@@ -13,7 +13,7 @@
     --sidebar-color: #FFF;
     --primary-color: #695CFE;
     --primary-color-light: #F6F5FF;
-    --toggle-color: #DDD;
+    --toggle-color: black;
     --text-color: #707070;
 
     --tran-03: all 0.2s ease;
@@ -36,9 +36,9 @@ body{
 body.dark{
     --body-color: #18191a;
     --sidebar-color: #242526;
-    --primary-color: #3a3b3c;
+    --primary-color: #695CFE;
     --primary-color-light: #3a3b3c;
-    --toggle-color: #fff;
+    --toggle-color: #695CFE;
     --text-color: #ccc;
 }
 
