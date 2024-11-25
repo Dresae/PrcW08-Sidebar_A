@@ -1,66 +1,42 @@
-#  MODERN AND RESPONSIVE SIDEBAR WITH DARK MODE
-## OVERVIEW
-overview of the project with core features and functionalities
+#  Modern and Responsive Sidebar With Dark Mode
+
+## Overview :scroll:
+Modern sidebar design integrated with a clean administrative dashboard navigation menu.
 
 ![screenshot](pics/screenshot1.png)
 ![screenshot](pics/screenshot2.png)
-![screenshot](pics/screenshot3.png)
-![screenshot](pics/screenshot4.png)
 
 ***
-## ARCHITECTURE
-Explains how the code is structured in a high level format
+## Page Structure
+    
+    ```
+    └── Root Structure
+        ├── Head Section
+        │   ├── Meta tags
+        │   ├── Title
+        │   └── Font Awesome CDN link
+        └── Body Section
+            └── Sidebar Container
+                ├── Profile Section
+                │   ├── Logo
+                │   ├── Profile Info
+                │   └── Toggle Button
+                ├── Search Box
+                ├── Menu Items List
+                └── Bottom Items
+                    ├── Logout Option
+                    └── Dark Mode Toggle
+
+    ```
 
 ***
-## CODE ANALYSIS
+
+## Key Takeaways ✏️ :pencil2:
+
 - Lists the main functionalities of the project
 - Gives a lower level explanation of each main code blocks so the reader can understand its usability and importance.
 - Start with the HTML, CCS and later with the Javascript functions/Objects.
 
-##  HTML File
-###  Summary:
-
-Explanation codeblock 1
-
-    ```
-    codeblock1 here{
-    }
-    ```
-Explanation code block 2
-
-    ```
-    code block2 here{
-    }
-    ```
-    
-##  CSS File
-###  Summary:
-Explanation codeblock 1
-
-    ```
-    codeblock1 here{
-    }
-    ```
-Explanation code block 2
-
-    ```
-    code block2 here{
-    }
-
-## JS File
-### Summary:
-
-Explanation codeblock 1
-
-    ```
-    codeblock1 here{
-    }
-    ```
-Explanation code block 2
-
-    ```
-    code block2 here{
-    }
 
 ***
 
