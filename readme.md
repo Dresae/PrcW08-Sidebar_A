@@ -9,25 +9,36 @@ Modern sidebar design integrated with a clean administrative dashboard navigatio
 ***
 ## Page Structure :pizza:
     
-    ```
-    └── Root Structure
-        ├── Head Section
+```
+    └── ROOT
+        |
+        ├── HEAD Section
         │   ├── Meta tags
-        │   ├── Title
-        │   └── Font Awesome CDN link
-        └── Body Section
-            └── Sidebar Container
-                ├── Profile Section
-                │   ├── Logo
-                │   ├── Profile Info
-                │   └── Toggle Button
-                ├── Search Box
-                ├── Menu Items List
-                └── Bottom Items
-                    ├── Logout Option
-                    └── Dark Mode Toggle
+        │   ├── Links
+        │   └── File title
+        |
+        └── BODY Section
+            |
+            ├── SIDEBAR container
+            |   |
+            |   ├── Header section
+            |   |   ├── Image/text container
+            |   |   └── Toggle
+            |   |
+            |   ├── Menu container
+            |   |   ├── Search box
+            |   |   └── Menu icons list
+            |   |
+            |   └── Bottom_content container
+            |       ├── Logout list
+            |       └── Dark mode list
+            |
+            └── HOME Section
+            |   └── Title container
+            |
+            └── SCRIPT
 
-    ```
+```
 
 ***
 
