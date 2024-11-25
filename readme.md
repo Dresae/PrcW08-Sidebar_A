@@ -1,4 +1,4 @@
-#  Modern and Responsive Sidebar With Dark Mode
+#  Modern and Responsive Sidebar With Dark Mode :bike:
 
 ## Overview :scroll:
 Modern sidebar design integrated with a clean administrative dashboard navigation menu.
@@ -7,7 +7,7 @@ Modern sidebar design integrated with a clean administrative dashboard navigatio
 ![screenshot](pics/screenshot2.png)
 
 ***
-## Page Structure
+## Page Structure :pizza:
     
     ```
     └── Root Structure
@@ -31,7 +31,7 @@ Modern sidebar design integrated with a clean administrative dashboard navigatio
 
 ***
 
-## Key Takeaways ✏️ :pencil2:
+## Key Takeaways :pencil2:
 
 - Lists the main functionalities of the project
 - Gives a lower level explanation of each main code blocks so the reader can understand its usability and importance.
