@@ -4,7 +4,6 @@
 Modern sidebar design integrated with a clean administrative dashboard navigation menu.
 
 ![screenshot](pics/screenshot1.png)
-![screenshot](pics/screenshot2.png)
 
 ***
 ## :pizza: Page Structure 
