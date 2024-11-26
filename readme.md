@@ -1,13 +1,13 @@
-#  Modern and Responsive Sidebar With Dark Mode :bike:
+#  :bike: Modern and Responsive Sidebar With Dark Mode 
 
-## Overview :scroll:
+## :scroll: Overview 
 Modern sidebar design integrated with a clean administrative dashboard navigation menu.
 
 ![screenshot](pics/screenshot1.png)
 ![screenshot](pics/screenshot2.png)
 
 ***
-## Page Structure :pizza:
+## :pizza: Page Structure 
     
 ```
     └── ROOT
@@ -42,7 +42,7 @@ Modern sidebar design integrated with a clean administrative dashboard navigatio
 
 ***
 
-## Key Takeaways :pencil2:
+## :pencil2: Key Takeaways 
 
 ### HTML:
 The page is formed of two main sections; The SIDEBAR and the HOME section.
